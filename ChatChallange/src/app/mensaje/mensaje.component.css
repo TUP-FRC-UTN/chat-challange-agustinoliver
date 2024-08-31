@@ -1,0 +1,9 @@
+.card {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    margin: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
