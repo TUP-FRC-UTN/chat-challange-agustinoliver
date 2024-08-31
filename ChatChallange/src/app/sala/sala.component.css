@@ -1,0 +1,12 @@
+.card {
+    border: 2px solid blue;
+}
+
+
+.row > div {
+    border: 2px solid green;
+    padding: 10px;
+}
+
+
+
